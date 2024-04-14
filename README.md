@@ -113,5 +113,33 @@ Once we have exported all the files for the calculation, we sometimes want to lo
 ### C. KPI Engineering Calculation
 ![K1](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/f548a5d4-2603-48a6-927c-9b151f09e6d7)
 
-#### C.1 Data Input in “Input from PLC Material Qty”-Tab
+#### 1. Data Input in “Input from PLC Material Qty”-Tab
 
+For the Data Input in "Input from PLC Material Qty"-Tab you can do the Data Input manually or you can import the Quantities automatically from the material file.
+
+#### 1.1 Manual Input when there is no Material Calculation performed before
+![K2](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/e0507434-a598-4beb-b9a6-43b982f14539)
+![K3](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/9b52b2e7-f191-4f31-8714-b8c9e74af0d1)
+
+#### 1.2 Input Quantity for Drives, PLC’s, E-Stop Buttons, and Smart Units when there is material Calculation performed before
+
+![K4](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/4d4d85dd-cc1c-4f32-abb0-50e5b772c74e)
+
+#### 2.	BCT Input in “PLC Management, FDS/DDS”, “HW Engineering”, “SW Engineering” and “Documentation” and “Commissioning” Tab. 
+
+![K2 1](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/1439618d-bac7-4a45-8967-e459c92c8ace)
+![K2 2](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/b43072b2-af6f-4cf7-a791-d8944ddc68b8)
+![K2 3](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/27206de3-5c9b-4a0f-83f6-90d18bce604a)
+
+#### 3. Manual BCT Input in “Delta work to Standard” Tab
+In this tab when you click “Next” from “SW Engineering” Tab you will directed to “Delta Work to Standard” Tab and here you have to enter the value in “Manual BCT Input” Column manually. After that click “Save Value” and click “Next” to go to the next step.
+
+![K3 1](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/67216fb1-7515-46ea-9481-f0c880ae1450)
+
+#### 4.	Manual BCT Input for “Delta Commiss. To standard” in “Commissioning” Tab
+
+![K4 1](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/443122db-f11c-4d69-bce5-58bf80ac0a5c)
+
+#### 5. “Summary” Tab
+
+![K5 1](https://github.com/evelyneugeniaa/VBA_Projects/assets/166989123/7fd70812-97a1-4c65-9174-47243e03686f)
